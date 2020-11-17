@@ -1,0 +1,30 @@
+body {
+    margin: 10%;
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+
+.btn {
+    margin: 10px;
+    font-size: 2em;
+}
+
+#drum-machine {
+    margin: 200px;
+}
+
+.drum-pad {
+    border-radius: 20px;
+    width: 150px;
+    height: 100px;
+    font-size:3em;
+    margin: 5px;
+    color: black;
+    background-color: red;
+}
+
+#display {
+    height: 70px;
+    background-color: black;    
+}
